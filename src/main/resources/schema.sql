@@ -1,6 +1,7 @@
 create table test ( col1 varchar, col2 int);
 create table currency ( id number, short_desc varchar, long_desc varchar);
 
+
 --Original Table Schema
 
 CREATE TABLE SIGNUP (SIGNUP_ID VARCHAR2(20) PRIMARY KEY NOT NULL, PASSWORD VARCHAR2(15) NOT NULL);
