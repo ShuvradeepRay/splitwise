@@ -1,0 +1,2 @@
+To find out PID which is running on port 8080
+netstat -aof | findstr :8080
